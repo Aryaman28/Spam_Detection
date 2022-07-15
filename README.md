@@ -1,2 +1,2 @@
 # Spam_Detection
-A project to detect and differentiate between spam &amp; ham
+A script to detect between spam SMSs and distinguish which ones are important and which ones are not
